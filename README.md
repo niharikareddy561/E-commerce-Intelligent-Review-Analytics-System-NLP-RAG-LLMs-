@@ -1,2 +1,2 @@
 # E-commerce-Intelligent-Review-Analytics-System-NLP-RAG-LLMs-
-An intelligent e-commerce NLP system that analyzes Amazon reviews to extract product aspects, detect sentiment, identify fake reviews, and generate grounded summaries using RAG, Chain-of-Thought prompting, and LoRA-fine-tuned LLMs.
+This project builds an end-to-end intelligent e-commerce analytics system to extract insights from large-scale Amazon product reviews. It combines traditional NLP, machine learning, and advanced LLM techniques such as Retrieval-Augmented Generation (RAG), Chain-of-Thought prompting, and LoRA fine-tuning to produce accurate, aspect-based summaries and business insights.
